@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="inputValue">Input the following values</string>
+    <string name="yourHeight">Your height</string>
+    <string name="m">m</string>
+    <string name="yourWeight">Your Weight</string>
+    <string name="kg">kg</string>
+    <string name="calculate">Calculate</string>
+    <string name="yourResult">You result:</string>
+    <string name="kgm2">Kg/m2</string>
+    <string name="normalWeight">Normal Weight</string>
+    <string name="underweight">Underweight</string>
+    <string name="overweight">Overweight</string>
+    <string name="repeatCalculation">Repeat Calculation</string>
+    <string name="textohelp">
+    The body mass index (BMI), or Quetelet index, is a measure for human body shape based on an
+    individual\'s weight and height. It was devised between
+    1830 and 1850 by the Belgian polymath Adolphe Quetelet during the course of
+    developing "social physics". Body mass index is defined as the
+    individual\'s body mass divided by the square of their height. The formulae universally used
+    in medicine produce a unit of measure of kg/m2. A frequent
+    use of the BMI is to assess how much an individual\'s body weight departs
+    from what is normal or desirable for a person of his or her height. The
+    weight excess or deficiency may, in part, be accounted for by body fat
+    (adipose tissue) although other factors such as muscularity also affect BMI
+    significantly. The WHO regards a BMI of less than 18.5 as underweight and
+    may indicate malnutrition, an eating disorder, or other health problems,
+    while a BMI greater than 25 is considered overweight and above 30 is
+    considered obese.
+    </string>
+    </resources>
